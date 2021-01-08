@@ -1,0 +1,15 @@
+.option-text {
+  width: 160px;
+  display: inline-block;
+  text-align: left;
+}
+
+.option-ratio {
+  height: 3px;
+  background-color: #276beb;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+}
